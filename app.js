@@ -1,7 +1,7 @@
-function add(x, y) {
+function add(x=1, y=1) {
   return x + y;
 }
 
 function sayHi() {
-  return "hi";
+  return "Hello";
 }
