@@ -4,18 +4,3 @@ function add(x = 1, y = 0) {
   return x + y;
 }
 
-function sayHi() {
-  return "Hello";
-}
-
-function person1Fn() {
-  console.log("i'm person 1 building a feature");
-
-  // return my favorite numbers
-  return [1, 2, 3];
-}
-
-function person2Fn() {
-  console.log("hey this is a feature from person 2, isn't this great");
-  return "!";
-}
