@@ -10,6 +10,8 @@ function sayHi() {
 
 function person1Fn() {
   console.log("i'm person 1 building a feature");
+
+  // return my favorite numbers
   return [1, 2, 3];
 }
 
